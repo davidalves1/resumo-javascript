@@ -3,7 +3,7 @@
 ## Referências
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
 
-Inicia um array já setando os valores
+Iniciando um array já setando os valores
 
 ```js
 var cars = ['Fox', 'Palio', 'Celta'];
@@ -178,7 +178,7 @@ console.log(cars.join('/'));
 console.log(cars.join(' - '));
 ```
 
-Truque para multiplicar strings
+Truque para multiplicar strings:
 
 ```js
 console.log(new Array(10));
