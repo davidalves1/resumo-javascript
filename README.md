@@ -1,2 +1,2 @@
 # resumo-javascript
-Dicas práticas com exemplos sobre javascript
+Dicas práticas com exemplos sobre JavaScript
