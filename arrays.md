@@ -1,5 +1,8 @@
 # Arrays
 
+## Referências
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 Inicia um array já setando os valores
 
 ```js
