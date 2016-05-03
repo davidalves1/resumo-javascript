@@ -1,4 +1,4 @@
-# Expreções Regulares
+# Expressões Regulares
 
 ## Referências:
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Regular_Expressions
