@@ -5,3 +5,5 @@ Este resumo foi baseado *[nestas](https://www.youtube.com/playlist?list=PLQCmSnN
 ***[- Expressões Regulares (RegEx)](https://github.com/davidalves1/resumo-javascript/blob/master/expressoes-regulares.md)***  
 
 ***[- Arrays](https://github.com/davidalves1/resumo-javascript/blob/master/arrays.md)***
+
+***[- Datas](https://github.com/davidalves1/resumo-javascript/blob/master/datas.md)***
