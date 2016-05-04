@@ -7,3 +7,5 @@ Este resumo foi baseado *[nestas](https://www.youtube.com/playlist?list=PLQCmSnN
 ***[- Arrays](https://github.com/davidalves1/resumo-javascript/blob/master/arrays.md)***
 
 ***[- Datas](https://github.com/davidalves1/resumo-javascript/blob/master/datas.md)***
+
+***[- Herança](https://github.com/davidalves1/resumo-javascript/blob/master/heranca.md)***
